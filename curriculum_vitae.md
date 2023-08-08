@@ -1,8 +1,9 @@
-# Curriculum Vitae
+# Andrew Hakmi
 
-
+## Curriculum Vitae
 
 #### Table of Contents ####
+- [Personal Information and Contact Details:](#personal-information-and-contact-details)
 - [Main technical skills, accumulated knowledge, and experience:](#main-technical-skills-accumulated-knowledge-and-experience)
   - [Chronology of Education & Experience:](#chronology-of-education-and-work-experience)
     - [Education:](#education)
@@ -10,12 +11,17 @@
     - [Experience:](#experience:)
     - [Current Projects:](#current-projects)
 
+---
+
+### Personal Information and Contact Details:
 
 
-#### Personal Information and Contact Details: ####
-**Name:** Andrew Hakmi  
-**Phone:** [+994 50 840 28 10](tel:+994508402810)  
-**E-Mail:** [andrew@xteam.pro](mailto:andrew@xteam.pro)
+- **Name:** [Andrew Hakmi](https://www.github.com/andrewhakmi)  
+- **Phone:** [+994 50 840 28 10](tel:+994508402810)  
+- **E-Mail:** [andrew@xteam.pro](mailto:andrew@xteam.pro)  
+- **Web:** [www.xteam.pro](https://xteam.pro/services)
+
+---
 
 
 # Main technical skills, accumulated knowledge, and experience:
@@ -59,6 +65,7 @@
 - Task setting.
 - Organization and conducting of R&D (Research and Development).
 
+---
 
 ## Chronology of Education and Work Experience:
 
@@ -110,6 +117,8 @@
 
 ---
 #### May 2004 - till now: Self-education, continuous improvement of qualifications
+
+---
 
 ## Experience:
 
@@ -236,6 +245,8 @@
   - Negotiations with clients and investors
   - Business planning
 
+---
+
 ## **Current Equipment, Tools and Technology Stack:**
 #### **Technologies:**
 - **Main PL:** Python
@@ -278,6 +289,7 @@
 | 1     | 2048     | 50        | Debian  / Network   | Networking, VPN                                  |
 | 4     | 8192     | 160       | CentOS  / Workflow  | Tracker, AdServer, Programmatic, Advertising     |
 
+---
 
 ## Current Projects:
 
@@ -302,5 +314,7 @@
 - **Responsibilities:** 
   - Community management
   - Research and development new technologies and methods
+
+---
 
 ---
