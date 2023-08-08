@@ -1,6 +1,6 @@
 ### [Curriculum Vitae](./curriculum_vitae.md)
 ### [Projects](./curriculum_vitae.md#current-projects)
-### [Public Repositories](https://github.com/AndrewHakmi/repositories)
+### [Public Repositories]([https://github.com/AndrewHakmi/repositories](https://github.com/AndrewHakmi?tab=repositories))
 ### [Publications](./priveleged.md)
 ### [Teaching](./priveleged.md)
 ### [Contact](./curriculum_vitae.md#personal-information-and-contact-details)
