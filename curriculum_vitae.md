@@ -302,3 +302,5 @@
 - **Responsibilities:** 
   - Community management
   - Research and development new technologies and methods
+
+---
