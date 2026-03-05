@@ -11,16 +11,6 @@
 **Быстрые ссылки:**
 [StudyNinja](https://github.com/XTeam-Pro/StudyNinja-Eco) · [Balansis](https://github.com/XTeam-Pro/Balansis) · [MagicBrain](https://github.com/XTeam-Pro/MagicBrain) · [XTeam.Pro](https://xteam.pro) · [Telegram](https://t.me/MessirWoland)
 
-<details>
-<summary><b>🔗 Ещё ссылки (как было в исходном профиле)</b></summary>
-
-- https://github.com/andrewhakmi/vilaviai
-- https://github.com/andrewhakmi/vilaviai-api
-- https://github.com/andrewhakmi/studyninja
-- https://github.com/andrewhakmi/studyninja-api
-
-</details>
-
 ---
 
 ## 🌌 Моё стратегическое видение (коротко)
@@ -170,4 +160,4 @@ flowchart LR
 
 ---
 
-**Давайте делать будущее руками.**
+**Давайте делать будущее вместе.**
