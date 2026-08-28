@@ -2,7 +2,7 @@
 
 # Andrew Tikhonov
 
-**Founder & R&D Chief — [XTeam.Pro](https://xteam.pro) · [StudyNinja](https://studyninja.ru)**
+**Founder & R&D Chief — [XTeam](https://xteam.pro) · [StudyLab](https://studylabpro.com)**
 
 <sub>R&D leadership · systems engineering · product & delivery</sub>
 
