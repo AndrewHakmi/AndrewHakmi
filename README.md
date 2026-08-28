@@ -40,6 +40,7 @@ flowchart LR
 - **Graph-driven adaptive learning** → StudyNinja · KnowledgeBaseAI
 - **Verified numerics** → Balansis
 - **Memory & continual learning** → MagicBrain
+- **Relational physics** → UWT
 
 ## Deep tech
 
@@ -49,10 +50,11 @@ flowchart LR
 | **KnowledgeBaseAI** | Neo4j knowledge-graph service: the curriculum graphs and adaptive trajectories beneath StudyNinja | `private` |
 | **Balansis** | Computational-stability library: compensated sum · dot · softmax · matmul (ACT), with formal proofs in Lean4 | `research · private` |
 | **MagicBrain** | ML research library: memory as activation, continual learning | `research · private` |
+| [**UWT** · Unified Whole Theory](https://uwt.xteam.pro) | Relational-physics research program: deriving spacetime from relations — interactive atlas, visual models, monograph | `research` |
 
 ## Research interests
 
-`human–machine intelligence` · `distributed cognitive ecosystems` · `agentic systems` · `knowledge graphs` · `adaptive education` · `formally verified computation`
+`human–machine intelligence` · `distributed cognitive ecosystems` · `agentic systems` · `knowledge graphs` · `adaptive education` · `formally verified computation` · `relational physics`
 
 ## Stack
 
