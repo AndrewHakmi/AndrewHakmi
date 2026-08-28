@@ -1,163 +1,69 @@
-<!-- Profile README for @AndrewHakmi -->
+<div align="center">
 
-# 👋 Привет! Я Тихонов Андрей Викторович
+# Andrew Tikhonov
 
-Я — основатель и визионер **XTeam.Pro** и **StudyNinja**. Делаю продукты и исследования на стыке **ИИ, образования, распределённых систем и вычислительной устойчивости**.
+**Founder & R&D Chief — [XTeam.Pro](https://xteam.pro) · [StudyNinja](https://studyninja.ru)**
 
-- 📍 Москва
-- 🧩 Фокус: **MAGIC Ecosystem** + прикладной контур **StudyNinja**
-- 🛠️ Стиль работы: от видения → к архитектуре → к воспроизводимому MVP → к метрикам качества
+<sub>R&D leadership · systems engineering · product & delivery</sub>
 
-**Быстрые ссылки:**
-[StudyNinja](https://github.com/XTeam-Pro/StudyNinja-Eco) · [Balansis](https://github.com/XTeam-Pro/Balansis) · [MagicBrain](https://github.com/XTeam-Pro/MagicBrain) · [XTeam.Pro](https://xteam.pro) · [Telegram](https://t.me/MessirWoland)
+*AGI is not built. It is grown — a distributed cognitive ecosystem in which humans and machines close a single cognitive loop.*
 
----
+[![ANU](https://img.shields.io/badge/ANU-open%20runtime%20%28MIT%29-2ea44f?style=flat)](https://github.com/AndrewHakmi/agent-native-universe)
+[![Email](https://img.shields.io/badge/Email-andrew%40xteam.pro-475569?style=flat)](mailto:andrew@xteam.pro)
+[![Telegram](https://img.shields.io/badge/Telegram-%40MessirWoland-475569?style=flat)](https://t.me/MessirWoland)
 
-## 🌌 Моё стратегическое видение (коротко)
-Я строю экосистему, где человек и ИИ становятся **единым когнитивным контуром**: ИИ помогает учиться, работать и развивать системы — а система учится на взаимодействии с человеком.
+</div>
 
-> **Тезис:** AGI не “строится как одна модель” — он **выращивается** как распределённая когнитивная экосистема.
+## Thesis
 
-### 🗺️ Карта (из визионерской схемы) — в одном взгляде
-```mermaid
-flowchart TB
-  H[Человек + ИИ: симбиоз] --> A[Агенты: когнитивная операционная система]
-  A --> M[Память и обучение: живая память]
-  M --> B[Устойчивые вычисления: новая математика]
-
-  subgraph L1[Уровень 1]
-    B
-  end
-  subgraph L2[Уровень 2]
-    M
-  end
-  subgraph L3[Уровень 3]
-    A
-  end
-  subgraph L4[Уровень 4]
-    H
-  end
-```
-
-### 🧩 Как это связано со мной «в реальной жизни»
-- **Balansis / ACT** — про устойчивые вычисления (не ломаться на “краях” и нулевых случаях)
-- **MagicBrain** — про память/обучение как процесс активации и перестройки
-- **MetaAgent** — про агентов как “операционную систему” (роли, инструменты, контроль качества)
-- **StudyNinja** — прикладной полигон, где всё это проверяется на живом обучении
-
----
-
-## 🏗️ Чем я занимаюсь сейчас (актуально)
-- 🧠 **StudyNinja (платформа)**: архитектура, качество ИИ‑репетитора, метрики/QA, устойчивость и наблюдаемость
-- 🧰 **StudyNinja-Eco (оркестрация)**: окружения dev/test/stage/prod, compose‑слои, мониторинг, воспроизводимые деплои
-- 📱 **StudyNinja Mobile**: Flutter‑приложение (Clean Architecture), развитие веток dev/фич
-- ⚖️ **Balansis**: математическая база и формальные доказательства (Lean4)
-- 🧬 **MagicBrain**: исследование нейроморфной памяти/обучения (долгосрочный трек)
-
----
-
-## 🧠 Проекты
-
-### 🎓 StudyNinja — образовательная платформа (AI Tutor + траектории)
-Что важно для меня в StudyNinja:
-- честная проверка знаний (без “придирок ради придирок”)
-- поддерживающий тон
-- устойчивость к плохой сети/крайним случаям
-- измеримость качества через тесты и телеметрию
-
-**Репозитории (часть может быть internal/private):**
-- StudyNinja Eco (orchestration): https://github.com/XTeam-Pro/StudyNinja-Eco
-- StudyNinja API: https://github.com/XTeam-Pro/StudyNinja-API
-- StudyNinja UIKit: https://github.com/XTeam-Pro/StudyNinjaUIKit
-- StudyNinja Mobile: https://github.com/XTeam-Pro/StudyNinja-Mobile
-
-<details>
-<summary><b>📌 Что внутри (очень коротко)</b></summary>
-
-- API: auth/подписки/уроки/прогресс, интеграция с KB, события качества
-- UIKit: пользовательский опыт обучения, роадмапы, уроки, платежи
-- Eco: оркестрация сервисов, слои compose, promotion dev→stage→prod
-- Mobile: Flutter‑клиент как интерфейс человека к системе
-
-</details>
-
-### 🧩 XTeam.Pro — команда/сообщество инженеров и исследователей
-XTeam.Pro — это место, где мы собираем и выращиваем людей, которые хотят строить сложные системы: от инфраструктуры и продуктов до новых вычислительных идей.
-
-- Сайт: https://xteam.pro
-
-### ⚖️ Balansis — вычислительная устойчивость (ACT)
-Идея простая: не “чинить симптомы” численных проблем, а **менять основу вычислений**, чтобы пограничные случаи перестали ломать системы.
-
-- Репозиторий: https://github.com/XTeam-Pro/Balansis
-
-### 🧬 MagicBrain — память/обучение как живой процесс
-Долгосрочная линия: перейти от “хранения данных” к **активации воспоминаний** и непрерывному обучению.
-
-- Репозиторий: https://github.com/XTeam-Pro/MagicBrain
-
----
-
-## 🧭 Мои роли
-- **R&D Chief** — исследование и проектирование новых парадигм
-- **Senior Developer** — архитектура, качество, производственная надёжность
-- **Project/Product Manager** — стратегия, приоритизация, доставка результата
-
----
-
-## 🔥 Ключевые направления
-- 🤖 Мультиагентные системы и “агенты как операционная система”
-- 🎓 AI‑образование: диагностика → траектория → урок → удержание
-- ⚖️ Вычислительная устойчивость (ACT) и формализация
-- 🧠 Человеко‑машинный контур: доверие, объяснимость, качество, безопасность
-
----
-
-## 🧩 Интерактив: как я мыслю про систему
-
-<details>
-<summary><b>🧱 Слои экосистемы и прикладной контур</b></summary>
+**Human–Machine AGI Core Symbiosis** is an engineering program — the **MAGIC Cognitive OS**, a layered ecosystem architecture: each layer is a real project, and the applied loop feeds back into the layers beneath it.
 
 ```mermaid
 flowchart LR
-  subgraph Foundation[Основание]
-    MB[Устойчивые вычисления]
-    MM[Память/обучение]
-  end
-
-  subgraph Control[Управление]
-    AG[Агенты/оркестрация]
-    K[Живые знания]
-  end
-
-  subgraph Applied[Прикладной контур]
-    SN[StudyNinja: обучение человека]
-  end
-
-  MB --> MM --> AG --> K --> SN
-  SN -->|обратная связь| AG
+    B["Balansis · ACT"] --> M["MagicBrain"]
+    M --> A["Agents"]
+    A --> K["Knowledge graphs"]
+    K --> S["StudyNinja"]
+    S -. feedback .-> B
 ```
 
-</details>
+<sub>One stack, five layers.</sub>
 
-<details>
-<summary><b>🚀 Как превращаю видение в результат (процесс)</b></summary>
+## What I build
 
-1) Формулирую “North Star” (что меняет мир)
-2) Разбиваю на уровни/слои (что должно существовать)
-3) Строю воспроизводимый MVP (запуск/деплой/метрики)
-4) Ввожу тесты качества (честность, тон, стабильность)
-5) Итерации: быстрее, безопаснее, понятнее
+- **[StudyNinja](https://studyninja.ru)** — adaptive learning platform: an AI tutor over knowledge-graph learning trajectories · FastAPI / React / Flutter · Russian state exam (OGE/EGE) prep · product org: [StudyLabPro](https://github.com/StudyLabPro)
+- **[XTeam.Pro](https://xteam.pro)** — AI engineering & R&D company: multi-agent systems, predictive analytics, delivery of complex AI systems · engineering org: [XTeam-Pro](https://github.com/XTeam-Pro)
 
-</details>
+## Current R&D
+
+- **Agentic runtimes** → ANU
+- **Graph-driven adaptive learning** → StudyNinja · KnowledgeBaseAI
+- **Verified numerics** → Balansis
+- **Memory & continual learning** → MagicBrain
+
+## Deep tech
+
+| System | What it is | Status |
+|---|---|---|
+| [**ANU** · Agent Native Universe](https://github.com/AndrewHakmi/agent-native-universe) | Runtime for self-organizing NanoAgent networks: negotiated links, encrypted autonomous mesh, Byzantine agreement. *The live graph is the system.* | `open · MIT` |
+| **KnowledgeBaseAI** | Neo4j knowledge-graph service: the curriculum graphs and adaptive trajectories beneath StudyNinja | `private` |
+| **Balansis** | Computational-stability library: compensated sum · dot · softmax · matmul (ACT), with formal proofs in Lean4 | `research · private` |
+| **MagicBrain** | ML research library: memory as activation, continual learning | `research · private` |
+
+## Research interests
+
+`human–machine intelligence` · `distributed cognitive ecosystems` · `agentic systems` · `knowledge graphs` · `adaptive education` · `formally verified computation`
+
+## Stack
+
+- **Languages** — Python · TypeScript · Dart
+- **Systems** — FastAPI · React · Node.js · Flutter · LangGraph / LLM agent orchestration
+- **Data** — PostgreSQL · Neo4j · Qdrant · Redis · RabbitMQ · ClickHouse
+- **Infra** — Docker · Kubernetes · Helm · Traefik · Grafana / Loki
+- **Proofs** — Lean4
 
 ---
 
-## 📌 Контакты
-📧 Email: [andrew@xteam.pro](mailto:andrew@xteam.pro)  
-🌐 Website: https://xteam.pro  
-📱 Telegram: https://t.me/MessirWoland
-
----
-
-**Давайте делать будущее вместе.**
+<div align="center">
+<sub>Grown, not built.</sub>
+</div>
