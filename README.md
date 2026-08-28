@@ -8,7 +8,7 @@
 
 *AGI is not built. It is grown — a distributed cognitive ecosystem in which humans and machines close a single cognitive loop.*
 
-[![ANU](https://img.shields.io/badge/ANU-open%20runtime%20%28MIT%29-2ea44f?style=flat)](https://github.com/AndrewHakmi/agent-native-universe)
+[![ANU](https://img.shields.io/badge/ANU-open%20runtime%20%28MIT%29-2ea44f?style=flat)](https://github.com/StudyLabPro/agent-native-universe)
 [![Email](https://img.shields.io/badge/Email-andrew%40xteam.pro-475569?style=flat)](mailto:andrew@xteam.pro)
 [![Telegram](https://img.shields.io/badge/Telegram-%40MessirWoland-475569?style=flat)](https://t.me/MessirWoland)
 
@@ -46,7 +46,7 @@ flowchart LR
 
 | System | What it is | Status |
 |---|---|---|
-| [**ANU** · Agent Native Universe](https://github.com/AndrewHakmi/agent-native-universe) | Runtime for self-organizing NanoAgent networks: negotiated links, encrypted autonomous mesh, Byzantine agreement. *The live graph is the system.* | `open · MIT` |
+| [**ANU** · Agent Native Universe](https://github.com/StudyLabPro/agent-native-universe) | Runtime for self-organizing NanoAgent networks: negotiated links, encrypted autonomous mesh, Byzantine agreement. *The live graph is the system.* | `open · MIT` |
 | **KnowledgeBaseAI** | Neo4j knowledge-graph service: the curriculum graphs and adaptive trajectories beneath StudyNinja | `private` |
 | **Balansis** | Computational-stability library: compensated sum · dot · softmax · matmul (ACT), with formal proofs in Lean4 | `research · private` |
 | **MagicBrain** | ML research library: memory as activation, continual learning | `research · private` |
